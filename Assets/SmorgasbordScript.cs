@@ -7,7 +7,7 @@ using UnityEngine;
 using Rnd = UnityEngine.Random;
 using KModkit;
 
-public class TemplateScript : MonoBehaviour
+public class SmorgasbordScript : MonoBehaviour
 {
     public KMBombModule Module;
     public KMBombInfo BombInfo;
